@@ -1,0 +1,1 @@
+char *invoke(const char *json);
